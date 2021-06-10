@@ -19,5 +19,4 @@ Feature: OrangeHrm Login
       | username | | password |
       | admin    | | admin123 |
       | admin123 | | admin    |
-      | adminxyz | | admin123 |
-      | admin    | | adminxyz |
+
